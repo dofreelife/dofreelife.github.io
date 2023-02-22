@@ -4,11 +4,36 @@
   
     
     <entry>
+      <title>高数求积分教学</title>
+      <link href="/2023/02/17/%E9%AB%98%E6%95%B0%E6%B1%82%E7%A7%AF%E5%88%86%E6%95%99%E5%AD%A6/"/>
+      <url>/2023/02/17/%E9%AB%98%E6%95%B0%E6%B1%82%E7%A7%AF%E5%88%86%E6%95%99%E5%AD%A6/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2><span id="前言">前言</span></h2><p>欢迎来到计算最难部分，所谓一杯茶，一支笔，一道积分算一天。可见其难度，变化之灵活<br>在求积分的计算中主要有以下6中积分形式。分别是公式法的简单积分，凑微分法积分，分部积分，有理函数积分，三角相关积分，递推有关积分</p><h2><span id="简单公式积分">简单公式积分</span></h2><p>这里的求积分并不算难，但是对读者公式的要求程度要较大的要求<br>除去基本公式外这里补充10给必背公式<br><img src="https://s2.loli.net/2023/02/22/etFGIqOgDXJaWcS.png" alt><br>其中第7个公式有分母=（x^2-a^2）的扩展，读者可自行推导<br>再求积分的过程中要用到一些基本数学变形。比如因式分解，三角代换等。</p><h2><span id="凑微分法求积分">凑微分法求积分</span></h2><p>既然都写到这里了我就不得不点名批评一组积分公式，其行为简直不要太恶劣。<br><img src="https://s2.loli.net/2023/02/18/xoACGY8qWRUp7LM.jpg" alt></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 数学 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 教学 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>长难句学习总结</title>
       <link href="/2023/02/16/%E9%95%BF%E9%9A%BE%E5%8F%A5%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/"/>
       <url>/2023/02/16/%E9%95%BF%E9%9A%BE%E5%8F%A5%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>写这一篇文章的意义就是我最进发现通过讲解的方式好像并不是一个好的学习长难句的方法主要原因是容易忘<br>在学习长难句的过程中我发现有两点非常重要<br>1：语法，这里是指语言的法则，就是要可以搞的懂这个部分是干啥用的。目前来说和我感觉主要有以下几个作用<br>1）：主干作用<br>这里说的就是句子的主干，五种基本句型。我这里把它理解为英语语言的基本逻辑。这里其实和汉语很像。所以只要主干部分翻译正确，那么应该拼接成一个主干句子没有问题。<br>2）：修饰作用<br>修饰作用力主要就是定语。因为定语修饰名词嘛，一般就副词修饰动词，总共就那么重要的否定副词。所以重点是名词的修饰<br>这个就很花里胡哨了，可以说非常的恶心。（外国人很喜欢写长句子，但是主干呢有很短，有时候补充也不多主要就爱装（个人观点）嘎嘎加修饰，恨不得一句话概括所有的细节。）回到正题。定语的修饰里最恶心的当属省略了，这里我时常翻车。<br>但是也不是无解：定语修饰标志性很强，不省略的话看先形词，省略的话注意所有ing和ed形式。<br>3）：补充作用<br>这个部分主要是同位语啊，破折号啊，状语啊<br>4）：结构作用<br>这个部分首当其冲的自然是并列，别的都不重要。倒装这种很容易辨识。但是并列的话，就一定要搞清楚并列的成分是什么<br>尤其是有的省略现象就更要小心小心再小心<br>2：单词，这里不但要求单个单词可以正确理解在句中的意思，词组也要能看出来，可惜笔者无能，词组这个东西太过于多样<br>有一定规律但感觉还不足也可以称之为语音法则。有的单词甚至于来源于词组。</p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>写这一篇文章的意义就是我最进发现通过讲解的方式好像并不是一个好的学习长难句的方法主要原因是容易忘<br>在学习长难句的过程中我发现有两点非常重要<br>1：语法，这里是指语言的法则，就是要可以搞的懂这个部分是干啥用的。目前来说和我感觉主要有以下几个作用<br>1）：主干作用<br>这里说的就是句子的主干，五种基本句型。我这里把它理解为英语语言的基本逻辑。这里其实和汉语很像。所以只要主干部分翻译正确，那么应该拼接成一个主干句子没有问题。<br>2）：修饰作用<br>修饰作用力主要就是定语。因为定语修饰名词嘛，一般就副词修饰动词，总共就那么重要的否定副词。所以重点是名词的修饰<br>这个就很花里胡哨了，可以说非常的恶心。（外国人很喜欢写长句子，但是主干呢有很短，有时候补充也不多主要就爱装（个人观点）嘎嘎加修饰，恨不得一句话概括所有的细节。）回到正题。定语的修饰里最恶心的当属省略了，这里我时常翻车。<br>但是也不是无解：定语修饰标志性很强，不省略的话看先形词，省略的话注意所有ing和ed形式。<br>3）：补充作用<br>这个部分主要是同位语啊，破折号啊，状语啊<br>4）：结构作用<br>这个部分首当其冲的自然是并列，别的都不重要。倒装这种很容易辨识。但是并列的话，就一定要搞清楚并列的成分是什么<br>尤其是有的省略现象就更要小心小心再小心<br>2：单词，这里不但要求单个单词可以正确理解在句中的意思，词组也要能看出来，可惜词组这个东西太过于多样<br>有一定规律但感觉还不足也可以称之为语音法则。有的单词甚至于来源于词组。</p>]]></content>
       
       
       <categories>
@@ -104,36 +129,11 @@
     
     
     <entry>
-      <title>长难句讲解</title>
-      <link href="/2023/01/19/%E9%95%BF%E9%9A%BE%E5%8F%A5%E8%AE%B2%E8%A7%A3/"/>
-      <url>/2023/01/19/%E9%95%BF%E9%9A%BE%E5%8F%A5%E8%AE%B2%E8%A7%A3/</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2><span id="第一句">第一句</span></h2><p>Arguing from the view that humans are different from animals in every relevant respect,extremist of this kind think that animals lie outside the area of moral choice.</p><p>讲解：<br>首先观察“，”两边发现是两个句子，所以在这个句子里，我们可以从“，”把句子划分成两个小句子（注意这里是长难句分析的核心，简化），现在我们来看第一个小句子通过arguing可以得出这里是分词结构做状语，那主语在哪呢？很明显在后一句，让我们来分析一下后面这句话,我们可以找到有两个由of引导的修饰结构，和一个that引导的宾从。结构清楚了，接下来就是翻译，这里分享一个小技巧，我们可以先翻译我们能通顺翻译的小部分来帮助我们对句子的理解。这里补充一个知识点“lie outside”翻译为“在….之外”</p><p>译文：关于人类和动物在所有相关方面都不同这一观点的争论，这种极端主义认为，动物在道德选择的领域之外。</p><h2><span id="第二句">第二句</span></h2><p>If I ever had any doubts about how demanding a teacher’s job is, it would have disappeared for good when I spent some time recently in schools.</p><p>讲解：<br>首先观察句子，可以发现句首是一个if引导的条件状语从句，主句是it would have disappered for good when …。这里when后面引导了一个时间状语从句。我们首先来翻译主句（这里注意 for good表示永远的意思），可以翻译成…已经永远消失了当…。<br>这里为了句子翻译更加流畅，我们可以把时间状语从句提前翻译，其中的recently也同理。<br>最后让我们来翻译一下,句首的条件状语从句，这里也有一个词组，had any doubts about,（对…存在疑惑）后面是一个感叹句how demanding,（吃力）。最后让我们来看看译文吧。</p><p>译文：如果我曾经对老师的工作有多吃力还存有怀疑的话，那么当我最近在学校待了一段时间后，这个疑惑（代词要具体化翻译）就永远消失了。</p><h2><span id="第三句">第三句</span></h2><p>However, the typical teenage lifestyle is already filled with so much competition that it would be wise to plan activities in which there are more winners than losers, for example, publishing newsletters with many student-written book reviews, displaying student artwork, and sponsoring book discussion clubs.</p><p>讲解：<br>首先我们可以把句子分成俩部分，显然后面的不重要，再前面一个句子中我们需要注意到<br>so…that…（如此…以至于）。以及it的形式主语结构，这两个知识点我们就可以开始翻译了，注意后一句是and并列的三给ing结构的举例。</p><p>译文：然而，典型的青少年的生活方式中已经充满了如此多的竞争以至于安排一些（形式主语具体化）胜利者比失败者更多的（定语从句前置翻译）活动是明智的。例如出版带有学生评论的时代刊物，展示学生作品，资助学生讨论俱乐部。</p><h2><span id="第四句">第四句</span></h2><p>The phenomenon provides a way for companies to remain globally competitive while avoiding market cycles and the growing burdens imposed by employment rules healthcare costs and pension plans.</p><p>讲解：<br>这个句子我们要注意句子中的while doing 结构，这种属于分词做状语的的后置，avoiding前的主语保持一致，还有imposed by的后置定语结构。</p><p>译文：这一现象为公司提供了一种保持全球竞争力的方式，同时（“而”这里翻译成“同时”）避免市场周期和就业规则、医疗成本和养老金计划带来的日益加重的负担。</p><h2><span id="第五句">第五句</span></h2><p>As industrial giants like General Motors and IBM struggle to survive by reducing the number of employees,Manpower,based in Milwaukee,Wisconsin,is booming.</p><p>讲解：<br>这个句子注意一个知识点as+单词（翻译为作为），as+句子做状语，主要意思有随着，就像，因为，虽然。这里可以用虽然翻译，也可以用随着都行，只有不影响原意即可。</p><p>译文：虽然通用汽车（General Motors）和IBM等工业巨头通过减少员工数量来生存，但是总部位于威斯康星州密尔沃基的人力资源公司（Manpower）却在蓬勃发展。</p><h2><span id="第六句">第六句</span></h2><p>Until these issues are resolved,a technology of behavior will continue to be rejected and with it possibly the only way to solve our problems.</p><p>讲解：<br>这个小句子看似人畜无害其实暗藏杀机，这里我们需要注意and是并列了两个句子这个很关键，然后我们需要找到被省略的部分（will continue to be rejected）。最后注意一点翻译技巧就欧克啦。<br>找被省略部分的tip:先看and后面的部分然后再前面找相似的部分，不见的自然就是被省略的啦。</p><p>译文：在这些问题得到解决之前，行为技术将持续被拒绝，而这（with it）可能是解决我们问题的唯一途径也会持续被拒绝。</p><h2><span id="第七句">第七句</span></h2><p>During the discussion of rock singing verses at last month’s stockholders’ meeting,Levin asserted that”music is not the cause of society’s ills”and even cited his son,a teacher in the Bronx,New York,who uses rap to communicate with students.</p><p>讲解：<br>注意后面（his son）是一个插入语再接的定语来修饰。</p><p>译文：在上个月的股东大会上讨论摇滚歌曲时，莱文认为“音乐不是社会弊病的根源”，甚至引用了他的儿子，他的儿子是纽约布朗克斯的一名教师，他的儿子用说唱与学生交流。</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> 英语 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 教学 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>hexo个人博客搭建总结</title>
       <link href="/2023/01/18/hexo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%80%BB%E7%BB%93/"/>
       <url>/2023/01/18/hexo%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%80%BB%E7%BB%93/</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2><span id="总结">总结</span></h2><p>1：环境搭建中系统变量和环境变量是重点，没搞好可能工具用不了。<br>2：用cnpm代替npm是个不错的选择，在很多时候都可用代替使用<br>3：hexo初始化提示“npm install”可以用cnpm代替关键文件出现到文件夹就可以了<br>4：要先在git中输入用户名，邮件，还有公钥。完成git连接到git才可以用来下载和上传<br>5：hexo d可能会报上传网络错误，没关系多试几次<br>6: 有一些改动，比如头像，封面，个性标语什么的。本地可能加载不出来，可以上传后用手机或者另一台电脑查看<br>7： 遇到bug，不要慌。冷静分析，搞清楚原理，加百度。一般可以解决问题，不行的话，建议从头再来，回到你认为没有问题的点，从那个点开始重新思考。<br>8： 配置好hexo后建议备份，便于后期回滚。<br>9:  ctrl+L可以快速清空git的历史命令。</p><p><img src="https://s2.loli.net/2023/01/18/LpMz53CwKBNcje7.jpg" alt></p>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2><span id="总结">总结</span></h2><p>1：环境搭建中系统变量和环境变量是重点，没搞好可能工具用不了。<br>2：用cnpm代替npm是个不错的选择，在很多时候都可用代替使用<br>3：hexo初始化提示“npm install”可以用cnpm代替关键文件出现到文件夹就可以了<br>4：要先在git中输入用户名，邮件，还有公钥。完成git连接到git才可以用来下载和上传<br>5：hexo d可能会报上传网络错误，没关系多试几次<br>6: 有一些改动，比如头像，封面，个性标语什么的。本地可能加载不出来，可以上传后用手机或者另一台电脑查看<br>7： 遇到bug，不要慌。冷静分析，搞清楚原理，加百度。一般可以解决问题，不行的话，建议从头再来，回到你认为没有问题的点，从那个点开始重新思考。<br>8： 配置好hexo后建议备份，便于后期回滚。<br>9:  ctrl+L可以快速清空git的历史命令。</p><p>=</p>]]></content>
       
       
       <categories>
